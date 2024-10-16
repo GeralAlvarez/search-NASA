@@ -1,0 +1,36 @@
+main {
+    min-height: calc(100vh - 160px);
+  }
+
+#contenedor {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  height: 100%; 
+  display: flex;
+  flex-direction: column;
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover; 
+}
+
+.card-body {
+  flex-grow: 1; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.card-text {
+  max-height: 80px; 
+  overflow-y: auto;  
+}
+
+.col-md-4 {
+  margin-bottom: 1.5rem;
+}
+
