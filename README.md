@@ -19,5 +19,5 @@ Este proyecto permite a los usuarios buscar imágenes relacionadas con términos
 - **Bootstrap**: Uso de componentes y estilos predefinidos para un diseño responsivo.
 - **JavaScript (Fetch API)**: Para realizar solicitudes a la API de NASA y procesar los resultados.
 
-## Accerder a la página 
+## Acceder a la página 
 https://geralalvarez.github.io/search-NASA/
